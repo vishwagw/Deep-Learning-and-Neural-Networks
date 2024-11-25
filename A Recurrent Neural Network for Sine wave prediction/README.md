@@ -30,3 +30,7 @@ this is the first step for any neural network and ultimately any data science pr
 for this project we will need python's math library.
 
 Figure -3 generated sine wave visualization
+
+# NOTE: 
+1. The result folder is for saving npy files generated in the model.
+2. the input data is too big to upload. You will need a kaggle account to download the data set zip file (350mb) from https://www.kaggle.com/datasets/jangedoo/utkface-new .
